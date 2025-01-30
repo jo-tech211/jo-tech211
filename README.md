@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jo-tech211/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jo-tech211/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jo-tech211/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/jo-tech211/Config-Activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jo-tech211/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
