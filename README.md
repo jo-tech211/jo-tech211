@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph, an <a href="www.linkedin.com/in/joseph-rubio-b64857301">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joseph, an <"www.linkedin.com/in/joseph-rubio-b64857301">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
